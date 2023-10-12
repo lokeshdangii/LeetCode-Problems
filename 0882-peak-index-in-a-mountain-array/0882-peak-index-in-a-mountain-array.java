@@ -14,6 +14,7 @@ class Solution {
 
     }
 
+    // binary search to return the peak index
     public int binarySearch(int arr[]){
         int n = arr.length-1;
         int start = 1;
