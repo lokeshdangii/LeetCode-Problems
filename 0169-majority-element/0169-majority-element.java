@@ -1,21 +1,20 @@
 class Solution {
     public int majorityElement(int[] nums) {
         int n = nums.length;
+        HashMap<Integer,Integer> hm = new HashMap<>();
+        
+        for(int ele : nums){  // storing nums element in hm
+            hm.put(ele, hm.getOrDefault(ele,0)+1);
+        }  
 
-        for(int i=0;i<n;i++){
-            int count =1;
-            for(int j =i+1;j<n;j++){
-                if(nums[i] == nums[j]){
-                    count++;
-                }
-            }
-
-            if(count>(int)n/2)
-            {
-                    return nums[i];
+        // 2. Traversal using set(keys) and for each loop
+        HashSet<Integer> hs = new HashSet<>(hm.keySet());
+        for(int key : hs ){
+            if(hm.get(key) > n/2){
+                return key;
             }
         }
 
-        return -1;
+        return 1;  
     }
 }
