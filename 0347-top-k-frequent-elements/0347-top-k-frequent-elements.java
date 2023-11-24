@@ -1,3 +1,5 @@
+// ------------------------ 2nd Approach ----------------------------------------------------
+
 class Solution {
     public int[] topKFrequent(int[] nums, int k) { 
         int n = nums.length;
@@ -9,27 +11,21 @@ class Solution {
         for(int ele : nums)
             hm.put(ele, hm.getOrDefault(ele, 0) + 1);
         
-        // TreeMap to store frequency and list of keys with that frequency
-        TreeMap<Integer, List<Integer>> invert_hm = new TreeMap<>(Collections.reverseOrder());
+        // Create an ArrayList of values from the HashMap
+        ArrayList<Integer> frequencies = new ArrayList<>(hm.values());
         
-        // Traversal using entrySet() to put count and element
-        for(Map.Entry<Integer, Integer> e : hm.entrySet()) {
-            int count = e.getValue();
-            int key = e.getKey();
-            
-            invert_hm.computeIfAbsent(count, unused -> new ArrayList<>()).add(key);
-        }
+        // Sort the ArrayList in reverse order
+        Collections.sort(frequencies, Collections.reverseOrder());
         
-        // Looping on first k elements in invert_hm to get k frequent elements
-        int count = 0;
-        for(Map.Entry<Integer, List<Integer>> entry : invert_hm.entrySet()) {
-            List<Integer> keys = entry.getValue();
+        // Loop from 0 to k and find the corresponding key from HashMap
+        for (int i = 0; i < k; i++) {
+            int frequency = frequencies.get(i);
             
-            for(int key : keys) {
-                result[count++] = key;
-                
-                if(count == k) {
-                    return result;
+            for (Map.Entry<Integer, Integer> e : hm.entrySet()) {
+                if (e.getValue() == frequency) {
+                    result[i] = e.getKey();
+                    hm.remove(e.getKey());
+                    break;
                 }
             }
         }
@@ -37,7 +33,6 @@ class Solution {
         return result;
     }
 }
-
 
 // ----------------------------- First Approach ---------------------------------
 /*
