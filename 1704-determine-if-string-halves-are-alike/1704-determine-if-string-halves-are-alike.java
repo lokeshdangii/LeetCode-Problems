@@ -18,7 +18,7 @@ class Solution {
         int i = 0;
         int j = s.length()-1;
         
-        while(i<=j){
+        while(i<j){
             if(checkVowel(s.charAt(i))){
                 left_vowels++;
             }
