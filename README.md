@@ -14,3 +14,19 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0409-longest-palindrome) |
+# Depth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+# Graph
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+# Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
