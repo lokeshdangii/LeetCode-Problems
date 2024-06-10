@@ -30,3 +30,15 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+# Array
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1137-height-checker) |
+# Sorting
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1137-height-checker) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1137-height-checker) |
