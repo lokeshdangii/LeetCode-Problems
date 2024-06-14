@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0204-count-primes) |
 | [1137-height-checker](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1217-relative-sort-array) |
 # Sorting
@@ -50,3 +51,15 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1137-height-checker](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1217-relative-sort-array) |
+# Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0204-count-primes) |
+# Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0204-count-primes) |
+# Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0204-count-primes) |
