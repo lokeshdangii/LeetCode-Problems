@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0204-count-primes) |
+| [0633-sum-of-square-numbers](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 # Enumeration
 |  |
 | ------- |
@@ -63,3 +64,11 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0204-count-primes) |
+# Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
