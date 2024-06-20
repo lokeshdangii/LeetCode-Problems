@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0207-course-schedule](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0322-coin-change) |
 # Graph
 |  |
 | ------- |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0204-count-primes) |
+| [0322-coin-change](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0322-coin-change) |
 | [1137-height-checker](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1217-relative-sort-array) |
 # Sorting
@@ -72,3 +74,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0322-coin-change) |
