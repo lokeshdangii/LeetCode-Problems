@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0207-course-schedule](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -78,3 +79,15 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0322-coin-change) |
+# Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
