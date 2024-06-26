@@ -15,12 +15,14 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0409-longest-palindrome) |
+| [1285-balance-a-binary-search-tree](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -83,11 +85,18 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1285-balance-a-binary-search-tree) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1285-balance-a-binary-search-tree) |
