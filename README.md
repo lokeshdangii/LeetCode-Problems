@@ -100,3 +100,10 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1285-balance-a-binary-search-tree) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1293-three-consecutive-odds) |
+<!---LeetCode Topics End-->
