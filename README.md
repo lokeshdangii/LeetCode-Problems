@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1293-three-consecutive-odds) |
+| [1720-crawler-log-folder](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1720-crawler-log-folder) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,4 +137,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2645-pass-the-pillow) |
+## String
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1720-crawler-log-folder) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
