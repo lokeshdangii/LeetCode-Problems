@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1293-three-consecutive-odds) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
