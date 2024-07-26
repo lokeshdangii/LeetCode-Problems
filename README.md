@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1803-average-waiting-time](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1803-average-waiting-time) |
 | [2181-smallest-index-with-equal-value](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2181-smallest-index-with-equal-value) |
 | [2502-sort-the-people](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2502-sort-the-people) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2502-sort-the-people) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3227-find-missing-and-repeated-values](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 ## Binary Search
 |  |
@@ -147,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0948-sort-an-array](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2502-sort-the-people) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Linked List
 |  |
 | ------- |
