@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1803-average-waiting-time](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1803-average-waiting-time) |
 | [2181-smallest-index-with-equal-value](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2181-smallest-index-with-equal-value) |
 | [2502-sort-the-people](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2502-sort-the-people) |
+| [2551-apply-operations-to-an-array](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2551-apply-operations-to-an-array](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1803-average-waiting-time](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1803-average-waiting-time) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2551-apply-operations-to-an-array](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2645-pass-the-pillow) |
 ## Math
 |  |
