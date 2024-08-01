@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2502-sort-the-people](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
+| [2727-number-of-senior-citizens](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2727-number-of-senior-citizens) |
 | [3227-find-missing-and-repeated-values](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1720-crawler-log-folder](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1720-crawler-log-folder) |
 | [2502-sort-the-people](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2727-number-of-senior-citizens) |
 ## Stack
 |  |
 | ------- |
