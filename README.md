@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [1720-crawler-log-folder](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1720-crawler-log-folder) |
 | [2502-sort-the-people](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2727-number-of-senior-citizens) |
