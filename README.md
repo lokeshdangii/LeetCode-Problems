@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0948-sort-an-array) |
@@ -222,4 +223,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
