@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2502-sort-the-people) |
@@ -169,11 +170,13 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [2645-pass-the-pillow](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2645-pass-the-pillow) |
 | [3227-find-missing-and-repeated-values](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [1720-crawler-log-folder](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/1720-crawler-log-folder) |
 | [2502-sort-the-people](https://github.com/lokeshdangii/LeetCode-Problems/tree/master/2502-sort-the-people) |
